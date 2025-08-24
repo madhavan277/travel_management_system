@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Mumbai",
+    "rating": "5",
+    "desc": "Gateway of India to walks at Marine Drive, Juhu Beach,Taj Hotel, Flora fountain",
+    "price": "7000",
+    "smallImg": "assets/mumbai_small.png",
+    "largeImg": "assets/mumbai_large.png",
+    "id": "1"
+  },
+  {
+    "name": "Hawai",
+    "rating": "4",
+    "desc": "Kailua, Kaneohe, Lahaina, Kapolei, Kahului, Waikiki Beach, Pearl Harbor. ",
+    "price": "25000",
+    "smallImg": "assets/hawai_small.png",
+    "largeImg": "assets/hawai_large.png",
+    "id": "2"
+  },
+  {
+    "name": "Sydney",
+    "rating": "4",
+    "desc": "Sydney Opera House, Sydney Harbour Bridge, The Rocks, Circular Quay.",
+    "price": "16000",
+    "smallImg": "assets/sydney_small.png",
+    "largeImg": "assets/sydney_large.png",
+    "id": "3"
+  },
+  {
+    "name": "Paris",
+    "rating": "4",
+    "desc": "Eiffel Tower, Louvre Museum, Notre Dame Cathedral, Montmartre.",
+    "price": "18000",
+    "smallImg": "assets/paris_small.png",
+    "largeImg": "assets/paris_large.png",
+    "id": "4"
+  },
+  {
+    "name": "Tokyo",
+    "rating": "4",
+    "desc": "Sensō-ji, Tokyo Skytree, Meiji Jingu, Tokyo Tower, Imperial Palace, Harajuku",
+    "price": "10000",
+    "smallImg": "assets/tokyo_small.png",
+    "largeImg": "assets/tokyo_large.png",
+    "id": "5"
+  },
+  {
+    "name": "Egypt",
+    "rating": "3",
+    "desc": "Great Sphinx of Giza, Egyptian Museum, Karnak, Pyramid of Djoser.",
+    "price": "17000",
+    "smallImg": "assets/egypt_small.png",
+    "largeImg": "assets/egypt_large.png",
+    "id": "6"
+  }
+]

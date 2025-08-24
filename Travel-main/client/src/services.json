@@ -1,0 +1,38 @@
+[
+  {
+    "icon": "assets/service1.png",
+    "name": "Affordable Hotels",
+    "desc": "Get affordable and budget friendly hotels with premium facilities like buffet and at prime locations",
+    "id": "1"
+  },
+  {
+    "icon": "assets/service2.png",
+    "name": "Food and Drinks",
+    "desc": "Good quality three time meals are included with the accomodation.",
+    "id": "2"
+  },
+  {
+    "icon": "assets/service3.png",
+    "name": "Safety Guide",
+    "desc": "With every trip, we provide a life insurance because we care for you and your loved ones.",
+    "id": "3"
+  },
+  {
+    "icon": "assets/service4.png",
+    "name": "Around the World",
+    "desc": "We have a trip planned for every city you ever dreamed about. You name it, We plan it.",
+    "id": "4"
+  },
+  {
+    "icon": "assets/service5.png",
+    "name": "Fastest Travel",
+    "desc": "We connect with major airlines, bus, train, car rental companies. Providing youhassle free and fastest journey",
+    "id": "5"
+  },
+  {
+    "icon": "assets/service6.png",
+    "name": "Adventures",
+    "desc": "We’ve got your ‘Adrenaline Rush’ under control. So, take risks, try whatever you want because one life only.",
+    "id": "6"
+  }
+]
