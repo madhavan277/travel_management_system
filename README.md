@@ -31,7 +31,3 @@
     <img src="./client/public/activity_photo.png" width="410">
 </p>
 =======
-# travel.management.system
->>>>>>> 97e07cce5fe9515c0f0486644dca84c35073e1ec
-=======
->>>>>>> fe8fef0bee1acbd75c8ea07087f3fa7ea8941a3c
