@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 <h1>Travellia - Tours and Travel Webiste</h1>
 <h2>Travellia is a tour and travel website, for people who love to travel but are scared of journey and the bookings part. We are here to help all travel enthusiasts.</h2>
 <h3>Here are some pictures of how this application looks: </h3>
@@ -35,5 +34,4 @@
 # travel.management.system
 >>>>>>> 97e07cce5fe9515c0f0486644dca84c35073e1ec
 =======
-tr
 >>>>>>> fe8fef0bee1acbd75c8ea07087f3fa7ea8941a3c
